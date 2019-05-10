@@ -1,8 +1,7 @@
 ﻿微信支付 Java SDK
 ------
-文档：https://www.yuque.com/wjwcloud/note/ohndcg
 
-对[微信支付开发者文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)中给出的API进行了封装。
+[微信支付开发者文档](https://pay.weixin.qq.com/wiki/doc/api/index.html)
 
 com.github.wxpay.sdk.WXPay类下提供了对应的方法：
 
@@ -297,7 +296,3 @@ public class WXPayExample {
 
 }
 ```
-
-支付宝支付
-------
-文档：https://www.yuque.com/wjwcloud/note/lefww6
