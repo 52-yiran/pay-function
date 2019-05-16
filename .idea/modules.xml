@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/wxpay-sdk.iml" filepath="$PROJECT_DIR$/wxpay-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxpay-sdk.iml" filepath="$PROJECT_DIR$/wxpay-sdk.iml" />
     </modules>
   </component>
 </project>
